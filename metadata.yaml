@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42173'
     url: http://www.gutenberg.org/2009/agents/42173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45361#Appletons-Popular-Science-Monthly-July-1899Volume-LV-No.-3-July-1899
 gutenberg_issued: '2014-04-11'
 gutenberg_type: Text
 identifiers:
